@@ -691,6 +691,12 @@ Scala
 .. _`cookiecutter-scala`: https://github.com/Plippe/cookiecutter-scala
 .. _`cookiecutter-scala-spark`: https://github.com/jpzk/cookiecutter-scala-spark
 
+SuperCollider
+~~~~~~~~~~~~~
+
+* `cookiecutter-quark`_: A cookiecutter template that generates a SuperCollider Quark (package) 
+
+.. _`cookiecutter-quark`: https://github.com/madskjeldgaard/cookiecutter-quark
 
 6502 Assembly
 ~~~~~~~~~~~~~
